@@ -6,6 +6,7 @@ dependencies:
   - pip
   - transformers[onnx]
   - onnxruntime
+  - onnx
   - pip:
     - ipywidgets
     - ipykernel
